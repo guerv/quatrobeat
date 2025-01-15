@@ -1,6 +1,9 @@
 # QUATROBEAT: A Guide
 <p align = "center">
-  <img src = "images/robotoDance.gif"> 
+  <img src = "images/robotoDance.gif" height = 200px> 
+  <img src = "images/robotoMiss.gif" height = 200px> 
+  <img src = "images/robotoDance.gif" height = 200px> 
+  <img src = "images/robotoDance.gif" height = 200px> 
 </p>
 
 Welcome to QuatroBeat! A simple four-key rhythm game that also allows you to create charts in-game. 
@@ -73,3 +76,7 @@ Press "MENU" to return to the edit menu. This will delete any unsaved data.
 
 
 *Have fun playing!*
+
+<p align = "center">
+  <img src = "images/titleScreen.png"> 
+</p>
