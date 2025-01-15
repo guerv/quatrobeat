@@ -1,4 +1,7 @@
 # QUATROBEAT: A Guide
+<p>
+  <img src = "images/robotoDance.gif"> 
+</p>
 
 Welcome to QuatroBeat! A simple four-key rhythm game that also allows you to create charts in-game. 
 
