@@ -1,5 +1,5 @@
 # QUATROBEAT: A Guide
-<p>
+<p align = "center">
   <img src = "images/robotoDance.gif"> 
 </p>
 
