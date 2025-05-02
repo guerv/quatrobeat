@@ -1,7 +1,4 @@
 /*
- * NAME: Natalia Guevara
- * DATE: 15 June 2024
- * COURSE CODE: ICS4U1-3
  * PROGRAM DESCRIPTION:
  * - Player plays a rhythm game in which they press the right keys according to what note passes through a set of dull notes 
  * - player gets a better score depending on how well they do 
