@@ -1,4 +1,6 @@
 # QUATROBEAT: A Guide
+*NOTE: This Java Project was built with the Eclipse IDE with Java 17 and JavaFX 17. This will affect the cloning process. For detailed installation instructions read [here](CLONE.md).*
+
 <p align = "center">
   <img src = "images/robotoDance.gif" height = 200px> 
   <img src = "images/robotoMiss.gif" height = 200px> 
