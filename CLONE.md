@@ -14,8 +14,7 @@
   - Variable Name: `JAVA_HOME`
   - Value: *Your JDK installation path*
  
-3. **Update `PATH` variable**
-*Can update the User Variables OR the System Variables*
+3. **Update `PATH` variable** - *Can update the User Variables OR the System Variables*
 - Under your Environment Variables, find the `PATH` variable and Edit it
 - Add new entry: `%JAVA_HOME%\bin`
 
