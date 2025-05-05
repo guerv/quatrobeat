@@ -2,6 +2,9 @@
 *These instructions are for...*
 - **Windows** machines
 - Running on the **VSCode** IDE
+
+**NOTE:** `quatrobeat` has another branch (`vscode_config`) with my VSCode config files for Java and JavaFX. However, these are configured to my JDK and JavaFX SDK versions and absolute paths. You can clone that branch and use this guide to know where to change these paths. 
+
 --- 
 
 ## 1. Install Prerequisites
